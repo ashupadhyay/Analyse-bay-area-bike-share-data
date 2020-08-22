@@ -12,7 +12,7 @@ I learnt the different aspects of the Jupyter Notebook like
 - Markdown Cells
 - Magic Keywords
 
-What I did in this project was
+A brief of what I did in this project can be found
 1. Formed two primary questions to be answered using the given data
 2. Conducted my own analysis
 3. Created different visualizations to communicate findings in the data 
